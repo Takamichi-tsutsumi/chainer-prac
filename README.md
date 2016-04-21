@@ -1,0 +1,2 @@
+# Chainer practice
+mnist
